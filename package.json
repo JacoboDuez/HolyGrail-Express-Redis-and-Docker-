@@ -1,0 +1,16 @@
+{
+  "name": "holygrail",
+  "version": "1.0.0",
+  "description": "node app for holy grail",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jacoboduez@hotmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "docker": "^0.2.14",
+    "express": "^4.19.2",
+    "redis": "^4.0.1"
+  }
+}
